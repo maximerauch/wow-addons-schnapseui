@@ -1,0 +1,12 @@
+## Interface: 90002
+## Title: Schnapse UI
+## Author: Schnapse
+## Version: 1.0.0
+## SavedVariables: SchnapseUISettings
+
+Embeds.xml
+Locales\Locales.xml
+SchnapseUI.lua
+SchnapseUIFunctions.lua
+SchnapseUIStructures.lua
+SchnapseUIUpdaters.lua
